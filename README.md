@@ -1,5 +1,5 @@
 # Stock Price Analysis Using ARIMA
-Time Series Prediction using **ARIMA** (AutoRegressive Integrated Moving Average) and analysis of the results I obtained using this method when predicting Tesla stock prices from 2010 to 2020.
+Time Series Prediction using **ARIMA** (AutoRegressive Integrated Moving Average) and analysis of the results I obtained using this method when predicting **Tesla** stock prices from 2010 to 2020.
 
 ## Inspiration
 **"Is there a way to explain the recent surge with technical indicators alone?"**
